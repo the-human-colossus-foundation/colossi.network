@@ -6,6 +6,6 @@ export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme(),
 
-  title: "Dynamic Data Economy",
-  description: "",
+  title: "ColoSSI Network",
+  description: "a novel way of decentralization",
 });

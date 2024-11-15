@@ -1,16 +1,16 @@
 ---
 
 home: true
-title:
-description:
-heroImage:
+title: def
+description: xyz
+heroImage: /images/hero.png
 heroImageDark:
 actions:
 
-- text: Overview
-  link: /guide/introduction
+- text: Engage
+  link: /community/introduction
   type: primary
 
-- text: Components
-  link: /guide/introduction
+- text: Learn
+  link: /components/introduction
   type: secondary
