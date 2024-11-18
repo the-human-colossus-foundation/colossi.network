@@ -11,6 +11,6 @@ hero:
       theme: brand
 
     - text: Learn
-      link: /academy
+      link: /academy/
       theme: alt
 ---
